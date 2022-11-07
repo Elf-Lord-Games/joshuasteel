@@ -1,2 +1,4 @@
 Here is a text file for testing
-I'm adding a file on the server
+I'm adding a line on the server
+
+Let me add even more things
